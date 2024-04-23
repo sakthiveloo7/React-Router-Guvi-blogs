@@ -35,7 +35,7 @@
 
 ## Deployment
 
-The application is deployed and can be accessed here : [Blog App](/).
+The application is deployed and can be accessed here : [Blog App](https://wwwguviblogscom.netlify.app//).
 
 
 
